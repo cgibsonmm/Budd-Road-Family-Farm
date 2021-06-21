@@ -1,1 +1,1 @@
-<h1>Budd Road Family Farm</h1>
+<div class="text-center">Comming Soon...</div>
